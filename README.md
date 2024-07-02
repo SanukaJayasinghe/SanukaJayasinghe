@@ -21,13 +21,13 @@
 <td width="50%" align="center">
 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=chulanshammi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=EB7111&text_color=D3D3D3&bg_color=0,000000,130F40" alt="chulanshammi's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanukaJayasinghe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=EB7111&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SanukaJayasinghe's Github Stats" />
   <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chulanshammi&dates=D3D3D3&sideNums=D3D3D3&sideLabels=D3D3D3&currStreakNum=D3D3D3&background=0,000000,130F40" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanukaJayasinghe&dates=D3D3D3&sideNums=D3D3D3&sideLabels=D3D3D3&currStreakNum=D3D3D3&background=0,000000,130F40" />
 </td>
 <td width="50%" align="center">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chulanshammi&langs_count=8&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SanukaJayasinghe&langs_count=8&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
   
   </td>
 </tr>
